@@ -3,4 +3,4 @@ Car Ride App similar to Indriver which will include the features like real-time 
 
 #onBoardingScreen
 
-![ridezilla](https://github.com/hussnainshafiul/RideSharing-App--React-Native/assets/106338425/57d5e7ac-94dc-43d5-80fc-8d073b9c47a4)
+![finalride](https://github.com/hussnainshafiul/RideSharing-App--React-Native/assets/106338425/6f2eca9a-3acc-486d-835b-0a65990eeca2)
